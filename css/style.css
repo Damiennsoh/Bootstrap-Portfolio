@@ -1,0 +1,37 @@
+h1, h2, h3, h4{
+    font-family: 'Times New Roman', Times, serif;
+  color: rgb(4, 4, 66);  
+  
+}
+
+
+h1{
+    text-align: left;
+}
+
+
+
+nav :hover{
+    background-color:rgb(87, 211, 57)
+    
+    
+}
+
+.jumbotron{
+    background-image: url("../images/Daymeyen.jpg");
+    margin-bottom: auto;
+    background-size: cover;
+    text-align: left;
+    width: 100%;
+    height: 400px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-sizing: content-box;
+
+    
+    
+
+}
+
+}
