@@ -17,6 +17,7 @@ N/A
 Please refer to the license document in the repository.
 
 ## Links
-
+https://github.com/Damiennsoh/Bootstrap-Portfolio
+https://damiennsoh.github.io/Bootstrap-Portfolio/
 
 Thank you.
