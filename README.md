@@ -23,5 +23,7 @@ https://github.com/Damiennsoh/Bootstrap-Portfolio
 https://damiennsoh.github.io/Bootstrap-Portfolio/
 
 ## Screenshots
+![Alt text](/relative/path/to/https://github.com/Damiennsoh/Bootstrap-Portfolio/tree/main/Screenshots?raw=true "deployed webpage")
+
 
 Thank you.
