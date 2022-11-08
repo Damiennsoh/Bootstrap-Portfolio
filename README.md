@@ -23,7 +23,7 @@ https://github.com/Damiennsoh/Bootstrap-Portfolio
 https://damiennsoh.github.io/Bootstrap-Portfolio/
 
 ## Screenshots
-![Alt text](./BOOTCAMP_UK/Bootcamp_Assigments/Bootstrap-Portfolio/Screenshots/bootstrap-port.pngh/raw=true "deployed webpage")
+![image](https://github.com/Damiennsoh/Bootstrap-Portfolio/blob/main/Screenshots/bootstrap-port.png)
 
 
 Thank you.
